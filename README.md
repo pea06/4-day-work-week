@@ -1,2 +1,2 @@
 # 4-day-work-week
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+알고리즘 문제 풀어서 저장하는 저장:cow:
